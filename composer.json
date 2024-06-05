@@ -1,0 +1,14 @@
+{
+    "name": "erudus/labelling",
+    "description": "Nutritional data for food and drink",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Erudus\\Labelling\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {}
+}
