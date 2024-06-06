@@ -5,6 +5,6 @@ namespace Erudus\Labelling;
 class helpers
 {
     public static function label() {
-        return 123;
+        return 456;
     }
 }
