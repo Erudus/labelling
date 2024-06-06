@@ -4,7 +4,7 @@ namespace Erudus\Labelling;
 
 class helpers
 {
-    public static function label($label) {
+    public static function label() {
         return 123;
     }
 }
