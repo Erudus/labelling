@@ -2,4 +2,4 @@
 
 require_once 'vendor/autoload.php';
 
-$class = new \Erudus\Labelling\NutritionalData();
+$class = new \Erudus\Labelling\ReferenceIntakes();
